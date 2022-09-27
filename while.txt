@@ -1,0 +1,1 @@
+wloop (4 != 4){hajox}
